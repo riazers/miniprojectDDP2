@@ -36,6 +36,13 @@ Jika ya maka silahkan meng input lagu yang ingin dihapus, sistem akan membuat pl
 
 <img width="946" height="194" alt="image" src="https://github.com/user-attachments/assets/1afe73df-b375-46be-a171-83419e322f01" />
 
+### 5. Terminal Admin
+Digunakan untuk menghapus genre playlist yang dipilih secara menyeluruh. Jika pengguna memilih genre playlist yang dihapus, maka program akan memberikan output bahwa genre tersebut tidak tersedia.
+<img width="898" height="331" alt="image" src="https://github.com/user-attachments/assets/d026fd84-90dd-49e7-a865-1adb6580a341" />
+<img width="656" height="529" alt="image" src="https://github.com/user-attachments/assets/9028082a-165a-43ff-8e77-af5feee06fca" />
+
+
+
 
 
 
