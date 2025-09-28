@@ -26,6 +26,17 @@ Setelah menginput pilihan, pengguna atau admin akan disuruh login menggunakan ak
 <img width="761" height="517" alt="image" src="https://github.com/user-attachments/assets/40d0733d-7ee6-44f9-bfda-d5252f75c449" />
 <img width="817" height="130" alt="image" src="https://github.com/user-attachments/assets/cb696900-3e13-4a46-b75a-fdb121540887" />
 
+### 3. Pilihan untuk menambah lagu akan muncul (Ya/Tidak) 
+Jika ya maka silahkan meng input lagu yang ingin dihapus, sistem akan membuat playlist baru. Jika tidak maka playlist lagu tidak akan bertambah.
+
+<img width="946" height="129" alt="image" src="https://github.com/user-attachments/assets/db20370b-4e52-431b-8ad9-e8064a2857d3" />
+
+### 4. Pilihan untuk menghapus lagu akan muncul (Ya/Tidak) 
+Jika ya maka silahkan meng input lagu yang ingin dihapus, sistem akan membuat playlist baru. Jika tidak maka playlist lagu tidak akan terhapus.
+
+<img width="946" height="194" alt="image" src="https://github.com/user-attachments/assets/1afe73df-b375-46be-a171-83419e322f01" />
+
+
 
 
 
